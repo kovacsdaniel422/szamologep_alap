@@ -55,7 +55,3 @@ function muvjelek() {
 
     }
 }
-
-function clear() {
-    .clear
-}
